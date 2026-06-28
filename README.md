@@ -27,7 +27,7 @@ Analyze telemetry data collected from four Daikibo manufacturing factories to id
 
 ### Dashboard Preview
 
-![Tableau Dashboard](Tableau-Project/tableau_dashboard.png)
+![Tableau Dashboard](tableau_dashboard.png)
 
 ---
 
@@ -39,7 +39,7 @@ Analyze and organize business data using Microsoft Excel to support data-driven 
 
 ### Excel Analysis Preview
 
-![Excel Analysis](Excel-Project/excel_data_analysis.png)
+![Excel Analysis](excel_data_analysis.png)
 
 ---
 
