@@ -4,7 +4,6 @@
 
 This repository contains my completed work for the Deloitte Data Analytics Virtual Job Simulation. The project focuses on analyzing manufacturing telemetry data, identifying machine downtime, and presenting business insights through Tableau and Microsoft Excel.
 
-> **Note:** This project was completed as part of a virtual job simulation for learning and portfolio purposes. It does not represent work performed as a Deloitte employee.
 
 ---
 
